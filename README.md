@@ -20,14 +20,14 @@ attach links.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/screenshots/onboardingscreen.png">  
+<img src="assets/screenshots/onboardingscreen.jpg">  
 
 # Sign Up Screen
 
-<img src= "assets/screenshots/signup.png">  
+<img src="assets/screenshots/signup.jpg">  
 
 # Log In Screen
-<img src="assets/screenshots/signin.png">  
+<img src="assets/screenshots/Signin.jpg">  
 
  
 
